@@ -1,0 +1,12 @@
+Flask==0.10.1
+fb
+facepy
+cloudant
+os
+json
+requests
+re
+dbutil
+bs4
+pdb
+time
